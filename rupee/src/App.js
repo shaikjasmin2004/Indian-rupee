@@ -8,9 +8,9 @@ function App() {
 
     <section> 
         <Product name="Hp laptop" price="45679rs" origin="Made in america"/>
-        <Product  name="Hp laptop" price="45679rs" origin="Made in america"/>
-        <Product  name="Hp laptop" price="45679rs" origin="Made in america"/>
-        <Product  name="Hp laptop" price="45679rs" origin="Made in america"/>
+        <Product  name="lenovo laptop" price="45679rs" origin="Made in India"/>
+        <Product  name="macBook pro laptop" price="45679rs" origin="Made in japan"/>
+        <Product  name="Asus laptop" price="45679rs" origin="Made in taiwan"/>
       </section>
       
  </div>
